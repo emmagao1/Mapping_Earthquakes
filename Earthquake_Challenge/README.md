@@ -1,4 +1,4 @@
 # Mapping_Earthquakes
 
-##Tools used:
+## Tools used:
 JavaScript, Leaflet.js, and geoJSON, html, D3.js
